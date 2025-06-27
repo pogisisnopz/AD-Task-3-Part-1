@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <h1>Navarez AD-Task-3-Part-1</h1>
+  <h1>Delemos AD-Task-3-Part-1</h1>
 </div>
 
 <div align="center">
